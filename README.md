@@ -11,12 +11,15 @@
 
 ##### Instalação
 Para instalar as dependências do projeto use:
+
 `yarn install`
 
 Após a instalação dos pacotes rode o comando:
+
 `yarn start`
 
-Rodar teste da Home
+Rodar teste da Home:
+
 `yarn test`
 
 Com o emulador aberto ou aparelho devidamente conectado clique em **Run on Android device/emulator** na aba que irá abrir.
